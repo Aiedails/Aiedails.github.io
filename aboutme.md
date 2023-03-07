@@ -6,10 +6,6 @@ subtitle: Why you'd want to go on a date with me
 
 Hello! My name is Zhiyi Wang, a junior student of ShanghaiTech University.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
 
 ### My story
 

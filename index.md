@@ -16,16 +16,19 @@ Prof. [Shenghua Gao](https://sist.shanghaitech.edu.cn/sist_en/2020/0814/c7582a54
 
 # Projects
 
-### Realistic Smoke Rendering | Dec. 2022 --- Jan. 2023
-A renderer supports both surface and volume rendering 
-designed as the final project of Computer Graphics (CS171)
-- Implemented basic Monte-Carlo *Path-Tracing* for surface rendering. 
-- Implemented sampler with *Delta-Tracking* and transmittance estimation with *Ratio-Tracking*, in addition to their integration with surface rendering.
-
 ### Pixmath | Nov. 2022 --- Jan. 2023
 
 A math formula recognizer designed as the final project of Deep Learning (CS280)
 - Aiming to recognize math formulas in images rendered by LaTeX engine back to LaTeX code.
 - Used a CNN-GRU pipeline with attention mechanism.
-- Capable of attaining a 25\% accuracy rate and a word error rate (WER) of 25% on the CROHME 2013 test set. 
+- Capable of attaining a 25% accuracy rate and a word error rate (WER) of 25% on the CROHME 2013 test set.
 - Yields credible recognition outcomes for inline cases.
+
+### Realistic Smoke Rendering | Dec. 2022 --- Jan. 2023
+
+A renderer supports both surface and volume rendering 
+designed as the final project of Computer Graphics (CS171)
+- Implemented basic Monte-Carlo *Path-Tracing* for surface rendering. 
+- Implemented sampler with *Delta-Tracking* and transmittance estimation with *Ratio-Tracking*, in addition to their integration with surface rendering.
+
+![smoke_rendering.png](./assets/smoke_rendering.png)

@@ -31,4 +31,4 @@ designed as the final project of Computer Graphics (CS171)
 - Implemented basic Monte-Carlo *Path-Tracing* for surface rendering. 
 - Implemented sampler with *Delta-Tracking* and transmittance estimation with *Ratio-Tracking*, in addition to their integration with surface rendering.
 
-![smoke_rendering.png](./assets/smoke_rendering.png)
+![smoke_rendering.png](./assets/smoke_rendering_2x2.png)

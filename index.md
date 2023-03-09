@@ -25,6 +25,7 @@ A math formula recognizer designed as the final project of Deep Learning (CS280)
 - Yields credible recognition outcomes for inline cases.
 
 ![pipeline.png](./assets/pixmath_pipeline.png)
+![res.png](./assets/pixmath_result.png)
 
 ### Realistic Smoke Rendering | Dec. 2022 --- Jan. 2023
 

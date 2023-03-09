@@ -24,6 +24,8 @@ A math formula recognizer designed as the final project of Deep Learning (CS280)
 - Capable of attaining a 25% accuracy rate and a word error rate (WER) of 25% on the CROHME 2013 test set.
 - Yields credible recognition outcomes for inline cases.
 
+![pipeline.png](./assets/pixmath_pipeline.png)
+
 ### Realistic Smoke Rendering | Dec. 2022 --- Jan. 2023
 
 A renderer supports both surface and volume rendering 

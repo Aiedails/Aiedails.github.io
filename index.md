@@ -13,6 +13,7 @@ MLP, CNN, RNN, AE, GAN, and NeRF, alongside rendering techniques like rasterizat
 surface/volume rendering. Currently, I am conducting research at 
 [SVIP lab](https://svip-lab.github.io/), under the esteemed guidance of 
 Prof. [Shenghua Gao](https://sist.shanghaitech.edu.cn/sist_en/2020/0814/c7582a54772/page.htm).
+You can download my resume [here](./assets/resume_en.pdf).
 
 # Projects
 
@@ -22,7 +23,7 @@ A math formula recognizer designed as the final project of Deep Learning (CS280)
 - Aiming to recognize math formulas in images rendered by LaTeX engine back to LaTeX code.
 - Used a CNN-GRU pipeline with attention mechanism.
 - Capable of attaining a 25% accuracy rate and a word error rate (WER) of 25% on the CROHME 2013 test set.
-- Yields credible recognition outcomes for inline cases.
+- Yields credible recognition outcomes for inline cases, although performance may be constrained by limited GPU resources.
 
 ![pipeline.png](./assets/pixmath_pipeline.png)
 ![res.png](./assets/pixmath_result.png)

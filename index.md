@@ -6,13 +6,13 @@ subtitle: Junior Undergraduate in Computer Science and Technology
 
 # About me
 
-Hello! My name is Zhiyi Wang, and I am a junior student at ShanghaiTech University. 
-My area of expertise lies in Computer Vision and Computer Graphics.
-I'm familar with contemporary Deep Learning frameworks such as 
-MLP, CNN, RNN, AE, GAN, and NeRF, alongside rendering techniques like rasterization and 
-surface/volume rendering. Currently, I am conducting research at 
-[SVIP lab](https://svip-lab.github.io/), under the esteemed guidance of 
-Prof. [Shenghua Gao](https://sist.shanghaitech.edu.cn/sist_en/2020/0814/c7582a54772/page.htm).
+Hello! My name is Zhiyi Wang, and I am a junior student at ShanghaiTech
+University. My area of expertise lies in Computer Vision and Computer Graphics.
+I'm familar with contemporary Deep Learning frameworks such as MLP, CNN, RNN,
+AE, GAN, NeRF, Diffusion, and LLM related stuff, alongside rendering techniques
+like rasterization and surface/volume rendering. Currently, I am conducting
+research at [SooLab lab](https://faculty.sist.shanghaitech.edu.cn/yangsibei/),
+under the esteemed guidance of Prof. Sibei Yang.
 You can download my resume [here](./assets/resume_en.pdf).
 
 # Projects

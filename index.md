@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Zhiyi Wang
-subtitle: 1st Master's in Computer Science and Technology
+subtitle: 1st Year Master's in Computer Science and Technology
 ---
 
 # About me

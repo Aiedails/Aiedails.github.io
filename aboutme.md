@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: 1st Master's in Computer Science and Technology
+subtitle: 1st Year Master's in Computer Science and Technology
 ---
 
 Hello! My name is Zhiyi Wang, a 1st year master's student of ShanghaiTech University.
